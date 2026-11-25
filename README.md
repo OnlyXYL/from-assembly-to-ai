@@ -34,7 +34,9 @@ from-assembly-to-ai/
 ## 配套内容
 
 - **公众号**：（公众号名称 / 二维码）—— 每篇学习笔记文章
-  ![alt text](qrcode_for_gh_6395d5eff9c7_258.jpg)
+
+  ![alt text](./imgs/公众号二维码.jpg)
+
 - **B 站**：（[B 站空间链接](https://space.bilibili.com/35187241/upload/video)）—— 环境搭建与实操录屏
 
 - 每篇笔记对应的代码都放在相应章节目录中，目录内 README 附文章与视频链接
